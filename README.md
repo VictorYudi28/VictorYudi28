@@ -11,4 +11,4 @@ Me chamo Victor Yudi, estou no primeiro semestre de Sistemas de Informação na 
 
 * ## 🔗 Links
 
-* [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victoryudiabe)
+* [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoryudiabe/)
