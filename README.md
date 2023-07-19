@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá, seja bem vindo ao meu GITHUB !!
+Me chamo Victor Yudi, estou no primeiro semestre de Sistemas de Informação na FIAP e este é o local em que deixo meus repositórios.
 
-<!--
-**VictorYudi28/VictorYudi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Linguagens e Ferramentas
+* HTML
+* CSS
+* Javascript
+* Java
+* Git
+* GitHub
 
-Here are some ideas to get you started:
+* ## 🔗 Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victoryudiabe)
