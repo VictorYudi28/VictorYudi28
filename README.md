@@ -13,6 +13,7 @@
   <img align="center" alt="js-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bootstrap-icon" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
   <img align="center" alt="java-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ##
